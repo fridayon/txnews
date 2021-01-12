@@ -1,4 +1,4 @@
-name: txnews
+name: txnewstest
 
 on:
   workflow_dispatch:
